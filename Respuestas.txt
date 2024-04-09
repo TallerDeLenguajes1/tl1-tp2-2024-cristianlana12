@@ -1,0 +1,13 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+    No no lo puedo ver el archivo tp2_1_2.c desde la rama MAIN
+    por lo que ese archivo no pertenece a la rama MAIN, tendriamos
+    que juntar todo para lograr verlo
+
+la diferencia que noto despues de agregar ese archivo en el gitk --all
+es que directamente ya figura una rama 
+
+Despues de merge la Opcion_2 a la main, directamente combine
+lo que tenia la rama Opcion_2 con la rama main, por lo que 
+cualquier archivo que agregue en la rama Opcion_2, se vera en
+la rama main
